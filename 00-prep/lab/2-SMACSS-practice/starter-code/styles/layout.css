@@ -1,0 +1,35 @@
+#logo { 
+  float: left;
+}
+
+#logo img {
+  float: left;
+}
+
+nav ul {
+  float: right;
+}
+
+nav li {
+  float: left;
+}
+
+.date {
+  float: left;
+}
+
+.print {
+  float: right;
+}
+
+.recipe li {
+  float: left;
+}
+
+aside img {
+  float: left;
+}
+
+aside button {
+  float: right;
+}
