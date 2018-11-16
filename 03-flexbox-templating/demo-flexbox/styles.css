@@ -1,9 +1,13 @@
 .container {
   display: flex;
+<<<<<<< HEAD
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: flex-start;
   
+=======
+  flex-wrap: wrap-reverse;
+>>>>>>> 07e1b378e2e8a8ab516f1e3c887037d36d31dff7
 }
 
 div {
@@ -22,7 +26,7 @@ div {
   height: 100px;
   width: 200px;
   line-height: 100px
-} */
+}
 
 .even {
   background: cyan;
